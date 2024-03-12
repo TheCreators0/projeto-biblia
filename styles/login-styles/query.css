@@ -1,0 +1,41 @@
+/* Estilos padrão */
+
+/* Estilos para smartwatches */
+@media only screen and (max-width: 599px) {
+    /* Estilos específicos para smartwatches */
+}
+
+/* Estilos para celulares pequenos */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+    /* Estilos específicos para celulares pequenos */
+}
+
+/* Estilos para celulares */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* Estilos específicos para celulares */
+}
+
+/* Estilos para tablets pequenos */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /* Estilos específicos para tablets pequenos */
+}
+
+/* Estilos para tablets */
+@media only screen and (min-width: 1200px) and (max-width: 1439px) {
+    /* Estilos específicos para tablets */
+}
+
+/* Estilos para notebooks */
+@media only screen and (min-width: 1440px) and (max-width: 1919px) {
+    /* Estilos específicos para notebooks */
+}
+
+/* Estilos para desktops */
+@media only screen and (max-width: 1200px) and (min-width: 600px) {
+    /* Estilos específicos para desktops */
+}
+
+/* Estilos para TVs */
+@media only screen and (min-width: 2560px) {
+    /* Estilos específicos para TVs */
+}
